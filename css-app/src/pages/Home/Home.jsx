@@ -1,5 +1,6 @@
 
 function Home() {
+    const  s =    'sss';
     return (
       <div className="Home">
         Home
